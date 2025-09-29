@@ -44,3 +44,5 @@ SeaPowerStreamingAssets
 
 .qtcreator
 .venv
+
+build/
